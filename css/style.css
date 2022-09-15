@@ -1,0 +1,25 @@
+body {
+    overflow-x: hidden;
+}
+.jumbotron {
+    padding-top: 5rem ; 
+    background-color: #e2edff;
+} 
+
+#projects {
+    background-color: #e2edff;  
+}
+
+section {
+    padding-top: 5rem;
+}
+
+/* img {
+    max-width: 100%;
+}
+
+.card {
+    width: 100%;
+} */
+
+
